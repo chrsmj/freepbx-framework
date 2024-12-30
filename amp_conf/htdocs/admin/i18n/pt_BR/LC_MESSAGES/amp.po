@@ -11307,7 +11307,7 @@ msgid "System Identity"
 msgstr "Identidade do Sistema"
 
 #: amp_conf/htdocs/admin/views/oobe.php:112
-msgid "System Notifcations Email"
+msgid "System Notifications Email"
 msgstr ""
 
 #: amp.i18n.php:678 ../core/install.php:444
